@@ -1,0 +1,20 @@
+:root {
+  --main-bg-color: #fff;
+  --sub-bg-color: #000;
+  --main-text-color: #000;
+  --sub-text-color: #fff;
+  --inactive: #818181;
+  --success: #bee3be;
+  --link-color: blue;
+  --accent-color: #ff0000;
+
+  --first-brand-color: #4b81a7;
+  --second-brand-color: #96c3ea;
+  --third-brand-color: #c5e9ff;
+
+  --main-font:  'Red Hat Mono';
+  --title-font:  'Red Hat Mono Bold';
+  --main-title-font: 'Fredoka One';
+
+  font-size: 62.5%;
+}
