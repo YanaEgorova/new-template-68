@@ -14,7 +14,7 @@ export const item = (product) => {
       <span class="product__price">$${(product.price).toFixed(2)}</span>
     </div>
    </a>
-   <button class="product__btn js_add-to-cart">buy this</button>
+   <button class="btn product__btn js_add-to-cart">buy it</button>
 </div>
   </li>
     `

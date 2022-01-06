@@ -27,6 +27,16 @@
     margin-right: auto;
     border-radius: 1rem;
 }
+.prod__size {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+ }
+ .prod__select {
+     display: block; 
+     font-size: 2rem;
+     width: 15rem;
+     outline: none;
+ }
 .prod__img-item:not(:last-child) {
     margin-right: 2rem;
 }
